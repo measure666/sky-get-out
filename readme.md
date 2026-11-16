@@ -1,3 +1,3 @@
 # 苍穹外卖
 
-做为SpringBoot的练习
+作为SpringBoot+vue的个人练习
